@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_pg"
+        android:icon="@drawable/icon1"
+        android:title="@string/pg"/>
+    <item
+        android:id="@+id/menu_sg"
+        android:icon="@drawable/icon2"
+        android:title="@string/sg"/>
+    <item
+        android:id="@+id/menu_sf"
+        android:icon="@drawable/icon3"
+        android:title="@string/sf"/>
+    <item
+        android:id="@+id/menu_pf"
+        android:icon="@drawable/icon4"
+        android:title="@string/pf"/>
+    <item
+        android:id="@+id/menu_cen"
+        android:icon="@drawable/icon5"
+        android:title="@string/cen"/>
+</menu>

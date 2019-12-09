@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Pemain Basket</string>
+    <string name="pg">Point Guard</string>
+    <string name="sg">Shooting Guard</string>
+    <string name="sf">Small Forward</string>
+    <string name="pf">Power Forward</string>
+    <string name="cen">Center</string>
+    <string name="fragment_pg">Point Guard</string>
+    <string name="fragment_sg">Shooting Guard</string>
+    <string name="fragment_sf">Small Forward</string>
+    <string name="fragment_pf">Power Forward</string>
+    <string name="fragment_cen">Center</string>
+
+    <string name="name">name</string>
+    <string name="team">Team</string>
+    <string name="position">position</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
